@@ -1,3 +1,3 @@
-# XxBo_LuoxX.github.io
+# XxBoLuoxX.github.io
 
 My Personal Blog via GitHub
